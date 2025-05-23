@@ -1,1 +1,1 @@
-Binary file for OTA update of HelloDevice
+Binary files for OTA update of HelloDevice and HelloCell firmware
