@@ -1,7 +1,7 @@
 {
   "Configurations": [
     {
-      "Version": "20250509.01",
+      "Version": "20250522.02",
       "URL": "https://raw.githubusercontent.com/markleavitt/HelloDeviceFirmware/main/HelloDevice.ino.bin"
     }
   ]
