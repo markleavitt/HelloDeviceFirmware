@@ -1,6 +1,6 @@
 Binary files for OTA update of Hello Everyday device firmware
 
-HelloCell.ino.bin supports Hello-Everyday and Hello-Everyday Plus devices
+HelloCell.ino.bin supports Hello-Everyday and Hello-Everyday Plus devices, and can serve as master for Hello-Aux sensor
 
 HelloTunes1.ino.bin supports the beta/pilot Hello Tunes devices (with internal MP3 player)
 
